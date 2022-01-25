@@ -2,7 +2,7 @@
 title: Google Pixel 5a (5G) に Floko v4 をインストール
 description: 
 published: true
-date: 2022-01-25T04:33:24.886Z
+date: 2022-01-25T04:42:49.853Z
 tags: flokorom, barbet, pixel, custom-rom
 editor: markdown
 dateCreated: 2022-01-25T04:33:24.886Z
@@ -13,7 +13,8 @@ dateCreated: 2022-01-25T04:33:24.886Z
 * 端末: Google Pixel 5a (5G) 128GB
 * OS: WSL 2 on Windows 11
 
-`adb`, `fastboot` コマンドが実行でき、かつ実端末上に対してそれらが実行できることを確認してください。
+`adb`, `fastboot` コマンドが実行でき、かつ実端末上に対してそれらが実行できることを確認してください。\
+また、端末に保存されているデータはすべて削除されますから、安全な場所にバックアップしてください。
 
 # 方法
 * 自己責任でお願いします。
@@ -38,7 +39,17 @@ Google Pixel 5a (5G) の既定のパーティション構成では、Magisk 等�
 * [MagiskGapps](https://mg.pixel-fy.com/download.html) (ファイル名: `MagiskGApps-[edition]-V[version].zip`)
 MagiskGapps については、core バージョンでの動作を確認しています。
 
-## 2. ROM のインストール
+## 2. カスタムリカバリ LineageOS Recovery の書き込み
+1. 電源ボタンと音量を下げるボタンを長押しして、fastboot に入ります。
+2. `fastboot flash boot lineage-18.1-20220120-recovery-barbet.img` を実行して、boot 領域に LineageOS Recovery を書き込みます。
+3. 一旦電源を落とし、再度 fastboot に入った後 Recovery を起動して、正常に LineageOS Recovery が起動することを確認します。
+
+## 3. ROM のインストール
 1. `adb reboot fastboot` を Android が起動し、かつ開発者向けモードが有効になっている状態で実行します。
 2. fastbootd に遷移したことを確認したら、`fastboot flash product product_gsi.img` を実行し、product 領域にパーティション空き容量の対策のためのイメージを書き込みます。
-3. 
+3. `fastboot flash system [FlokoROM GSI のイメージのファイル名]` を実行して、system 領域に FlokoROM GSI を書き込みます。
+4. `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img` を実行して、vbmeta パーティションを無効化します。
+5. `fastboot -w` を実行して、ユーザーデータを削除します。行わない場合、FlokoROM の動作に支障を来します。**(FlokoROM GSI 自体のアップデート時には必要ありません。)**
+
+## (4. 必要な場合: Magisk, MagiskGapps のインストール)
+WIP
