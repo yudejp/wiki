@@ -2,7 +2,7 @@
 title: silicon
 description: 
 published: true
-date: 2022-01-25T07:17:33.739Z
+date: 2022-01-25T07:20:30.221Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:12:40.737Z
@@ -20,4 +20,4 @@ dateCreated: 2022-01-25T07:12:40.737Z
 * 色: スペースグレイ
 
 ## 歴史
-* 2021年11月: [choco](hosts/choco) の続投先として購入。AppleCare+ を付け、広島市立大学の学割を適用した。
+* 2021年11月: [choco](/hosts/choco) の続投先として購入。AppleCare+ を付け、広島市立大学の学割を適用した。
