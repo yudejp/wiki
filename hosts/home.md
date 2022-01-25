@@ -2,13 +2,12 @@
 title: コンピュータ
 description: 
 published: true
-date: 2022-01-25T07:43:00.817Z
+date: 2022-01-25T07:57:04.307Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:43:00.817Z
 ---
 
-# コンピュータ
 * yude が所持している、または所持していたコンピュータについて
 
 ## 所持中
