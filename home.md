@@ -2,7 +2,7 @@
 title: ようこそ
 description: wiki.yude.jp フロントページ
 published: true
-date: 2022-01-25T03:46:16.756Z
+date: 2022-01-25T06:56:45.702Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T03:46:14.578Z
