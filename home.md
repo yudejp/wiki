@@ -2,7 +2,7 @@
 title: ようこそ
 description: wiki.yude.jp フロントページ
 published: true
-date: 2022-01-25T07:28:08.939Z
+date: 2022-01-25T07:54:09.167Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T03:46:14.578Z
@@ -15,6 +15,14 @@ dateCreated: 2022-01-25T03:46:14.578Z
 ## 命名規則
 * 極端に短いパスを指定するとエラーが発生します。(5文字程度は欲しい。)
 * 英数字のみをリンク、タグに含めるようにします。
+
+## ナビゲーション
+ページを追加した際は、こちらから辿ることのできるようにします。\
+こちらに追加するページの URL は、`/home` で終わるようにします。
+* [FlokoROM](/Floko/home)
+* [コンピュータ](/hosts/home)
+* [コマンド](/command/home)
+
 
 ## 外部リンク
 * [GitHub Organization](https://github.com/yudejp)
