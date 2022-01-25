@@ -2,7 +2,7 @@
 title: Google Pixel 5a (5G) に Floko v4 をインストール
 description: 
 published: true
-date: 2022-01-25T04:44:14.575Z
+date: 2022-01-25T04:45:00.666Z
 tags: flokorom, barbet, pixel, custom-rom
 editor: markdown
 dateCreated: 2022-01-25T04:33:24.886Z
@@ -50,6 +50,7 @@ MagiskGapps については、core バージョンでの動作を確認してい
 3. `fastboot flash system [FlokoROM GSI のイメージのファイル名]` を実行して、system 領域に FlokoROM GSI を書き込みます。
 4. `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img` を実行して、vbmeta パーティションを無効化します。
 5. `fastboot -w` を実行して、ユーザーデータを削除します。行わない場合、FlokoROM の動作に支障を来します。**(FlokoROM GSI 自体のアップデート時には必要ありません。)**
+6. 端末を再起動します。
 
 ## (4. 必要な場合: Magisk, MagiskGapps のインストール)
 WIP
