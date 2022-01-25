@@ -2,7 +2,7 @@
 title: Google Pixel 5a (5G) に Floko v4 をインストール
 description: 
 published: true
-date: 2022-01-25T04:42:49.853Z
+date: 2022-01-25T04:44:14.575Z
 tags: flokorom, barbet, pixel, custom-rom
 editor: markdown
 dateCreated: 2022-01-25T04:33:24.886Z
@@ -26,7 +26,7 @@ dateCreated: 2022-01-25T04:33:24.886Z
 ### `vbmeta.img`
 1. まず、以下のページから barbet 向けファクトリイメージをダウンロードします。
 [Factory Images for Nexus and Pixel Devices  |  Google Play services  |  Google Developers](https://developers.google.com/android/images)
-1. ダウンロードした zip ファイルの中にある `` を取り出し、解凍します。
+1. ダウンロードした zip ファイルの中にある `image-barbet-rd2a.XXXXX.XXX.zip` を取り出し、解凍します。
 1. `vbmeta.img` を取得できます。
 ### `product_gsi.img`
 Google Pixel 5a (5G) の既定のパーティション構成では、Magisk 等をインストールする空き容量が残されていません。
