@@ -2,13 +2,13 @@
 title: Google Pixel 5a (5G) に Floko v4 をインストール
 description: 
 published: true
-date: 2022-01-25T04:45:00.666Z
+date: 2022-01-25T04:45:44.932Z
 tags: flokorom, barbet, pixel, custom-rom
 editor: markdown
 dateCreated: 2022-01-25T04:33:24.886Z
 ---
 
-# 環境
+# 検証環境
 イメージのビルドを行わない手段を使用するので、あまり関係ないとは思いますが...
 * 端末: Google Pixel 5a (5G) 128GB
 * OS: WSL 2 on Windows 11
