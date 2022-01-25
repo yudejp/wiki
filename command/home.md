@@ -2,7 +2,7 @@
 title: コマンド
 description: 
 published: true
-date: 2022-01-25T07:56:44.170Z
+date: 2022-01-25T07:58:34.947Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:56:44.170Z
@@ -18,3 +18,7 @@ dateCreated: 2022-01-25T07:56:44.170Z
 ## ターミナル
 ### `screen`
 * [チートシート](/screen/cheat)
+
+## その他
+### トラブルシューティング
+* `sudo dmesg | tail`
