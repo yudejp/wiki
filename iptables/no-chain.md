@@ -2,13 +2,12 @@
 title: No chain/target/match by that name. (iptables)
 description: 
 published: true
-date: 2022-01-25T07:31:39.165Z
+date: 2022-01-25T07:55:59.974Z
 tags: firewall, iptables
 editor: markdown
 dateCreated: 2022-01-25T07:31:39.165Z
 ---
 
-# No chain/target/match by that name. (iptables)
 ![https://gyazo.com/cd003db59a1202182defb698ae79dab1/max_size/1000](https://gyazo.com/cd003db59a1202182defb698ae79dab1/max_size/1000)
 
 ## 解決策
