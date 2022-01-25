@@ -2,7 +2,7 @@
 title: Google Pixel 5a (5G) に Floko v4 をインストール
 description: 
 published: true
-date: 2022-01-25T04:45:44.932Z
+date: 2022-01-25T04:46:34.296Z
 tags: flokorom, barbet, pixel, custom-rom
 editor: markdown
 dateCreated: 2022-01-25T04:33:24.886Z
@@ -18,7 +18,7 @@ dateCreated: 2022-01-25T04:33:24.886Z
 
 # 方法
 * 自己責任でお願いします。
-## 1. 必要なファイルのダウンロード
+## 1. 必要なファイルの取得
 ### FlokoROM GSI
 * [FlokoROM GSI](https://treble.andro.plus/)
 ### LineageOS Recovery (barbet 用)
