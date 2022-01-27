@@ -2,7 +2,7 @@
 title: ようこそ
 description: wiki.yude.jp フロントページ
 published: true
-date: 2022-01-27T04:54:34.755Z
+date: 2022-01-27T05:06:23.403Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T03:46:14.578Z
@@ -22,7 +22,7 @@ dateCreated: 2022-01-25T03:46:14.578Z
 * [コンピュータ](/hosts/home)
 * [コマンド](/command/home)
 * [プログラミング](/programming/home)
-
+* [ソフトウェア](/software/home)
 
 ## 外部リンク
 * [GitHub Organization](https://github.com/yudejp)
