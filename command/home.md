@@ -2,11 +2,16 @@
 title: コマンド
 description: 
 published: true
-date: 2022-01-25T07:58:34.947Z
+date: 2022-01-27T05:04:05.764Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:56:44.170Z
 ---
+
+## バージョン管理
+### Git
+* [別リポジトリにあるディレクトリを他のリポジトリで既に使用中のドメインのサブディレクトリとして GitHub Pages で公開する](/git/github-pages-subdir)
+* [コミットに署名を行う (on Windows)](/git/signing-commit-on-windows)
 
 ## ファイアウォール
 ### `iptables`
