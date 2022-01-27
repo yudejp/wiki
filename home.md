@@ -2,7 +2,7 @@
 title: ようこそ
 description: wiki.yude.jp フロントページ
 published: true
-date: 2022-01-25T07:56:14.708Z
+date: 2022-01-27T04:54:34.755Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T03:46:14.578Z
@@ -21,6 +21,7 @@ dateCreated: 2022-01-25T03:46:14.578Z
 * [FlokoROM](/Floko/home)
 * [コンピュータ](/hosts/home)
 * [コマンド](/command/home)
+* [プログラミング](/programming/home)
 
 
 ## 外部リンク
