@@ -2,7 +2,7 @@
 title: プログラミング
 description: 
 published: true
-date: 2022-01-27T04:59:45.235Z
+date: 2022-01-27T05:01:25.748Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T04:59:45.235Z
@@ -11,6 +11,8 @@ dateCreated: 2022-01-27T04:59:45.235Z
 ## 言語
 ### Go
 * [実行ファイルのサイズを削減する](/golang/ldflags-s)
+### JavaScript
+* [現在開いているページを Twitter にシェアするブックマークレット](/javascript/twitter-share-bookmarklet)
 
 ## フレームワーク
 ### Ren'Py
