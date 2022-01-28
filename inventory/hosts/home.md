@@ -2,18 +2,18 @@
 title: コンピュータ
 description: yude が所持している、または所持していたコンピュータについて
 published: true
-date: 2022-01-28T00:57:34.343Z
+date: 2022-01-28T01:02:48.406Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:43:00.817Z
 ---
 
 ## 所持中
-* [sandy](/hosts/sandy)
-* [silicon](/hosts/silicon)
-* [zen](/hosts/zen)
-* [pi](/hosts/pi)
+* [sandy](/inventory/hosts/sandy)
+* [silicon](/inventory/hosts/silicon)
+* [zen](/inventory/hosts/zen)
+* [pi](/inventory/hosts/pi)
 
 ## 売却済み, 廃棄済み, 譲渡済み
-* [saika](/hosts/saika)
-* [spica](/hosts/spica)
+* [saika](/inventory/hosts/saika)
+* [spica](/inventory/hosts/spica)
