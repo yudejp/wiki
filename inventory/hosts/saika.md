@@ -2,7 +2,7 @@
 title: saika
 description: 
 published: true
-date: 2022-01-28T00:57:16.109Z
+date: 2022-01-28T01:05:52.572Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:06:31.969Z
@@ -10,7 +10,7 @@ dateCreated: 2022-01-25T07:06:31.969Z
 
 # saika
 * 売却済み
-![saika](https://gyazo.com/3ac84f6b825fa73d01a9059ad8cc02d7/max_size/300)
+![saika.png](/saika.png)
 
 ## スペック
 * CPU: [Intel Core i5-6500](https://ark.intel.com/content/www/jp/ja/ark/products/88184/intel-core-i5-6500-processor-6m-cache-up-to-3-60-ghz.html) (4C, 4T)
