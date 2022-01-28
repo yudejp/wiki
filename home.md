@@ -2,7 +2,7 @@
 title: ようこそ
 description: wiki.yude.jp フロントページ
 published: true
-date: 2022-01-27T05:06:23.403Z
+date: 2022-01-28T00:55:34.617Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T03:46:14.578Z
@@ -18,11 +18,14 @@ dateCreated: 2022-01-25T03:46:14.578Z
 ## ナビゲーション
 ページを追加した際は、こちらから辿ることのできるようにします。\
 こちらに追加するページの URL は、`/home` で終わるようにします。
+### トピック
 * [FlokoROM](/Floko/home)
-* [コンピュータ](/hosts/home)
 * [コマンド](/command/home)
 * [プログラミング](/programming/home)
 * [ソフトウェア](/software/home)
+### 所持
+* [コンピュータ](/inventory/hosts/home)
+* [ノベルゲーム](/inventory/visual-novel)
 
 ## 外部リンク
 * [GitHub Organization](https://github.com/yudejp)
