@@ -2,7 +2,7 @@
 title: silicon
 description: 
 published: true
-date: 2022-01-28T00:56:46.534Z
+date: 2022-01-28T01:04:40.245Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:12:40.737Z
@@ -10,7 +10,7 @@ dateCreated: 2022-01-25T07:12:40.737Z
 
 # silicon
 * メイン ラップトップ
-![silicon](https://gyazo.com/fb55eddf389f1c79e08993a62d8de646/max_size/300)
+![silicon.jpeg](/silicon.jpeg)
 
 ## スペック
 * チップ: Apple M1
