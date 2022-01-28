@@ -2,7 +2,7 @@
 title: コンピュータ
 description: yude が所持している、または所持していたコンピュータについて
 published: true
-date: 2022-01-28T01:02:48.406Z
+date: 2022-01-28T04:03:10.669Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:43:00.817Z
