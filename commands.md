@@ -2,7 +2,7 @@
 title: コマンド
 description: コマンドラインツール等の運用メモ
 published: true
-date: 2022-01-28T04:02:21.976Z
+date: 2022-01-28T07:07:39.454Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:56:44.170Z
@@ -23,6 +23,10 @@ dateCreated: 2022-01-25T07:56:44.170Z
 ## ターミナル
 ### `screen`
 * [チートシート](/commands/screen/cheat)
+
+## マルチメディア
+### `youtube-dl`
+* [チートシート](/commands/youtube-dl/cheat)
 
 ## その他
 ### トラブルシューティング
