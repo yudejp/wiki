@@ -2,7 +2,7 @@
 title: choco
 description: 
 published: true
-date: 2022-01-25T07:20:02.269Z
+date: 2022-01-28T04:27:10.757Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:20:02.269Z
@@ -23,4 +23,4 @@ dateCreated: 2022-01-25T07:20:02.269Z
 
 ## 歴史
 * 2020年3月: 大学用 PC として購入。
-* 2021年11月: 売却。[silicon](/hosts/silicon) を続投として購入した。
+* 2021年11月: 売却。[silicon](/inventory/hosts/silicon) を続投として購入した。
