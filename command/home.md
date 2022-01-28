@@ -1,8 +1,8 @@
 ---
 title: コマンド
-description: 
+description: コマンドラインツール等の運用メモ
 published: true
-date: 2022-01-27T05:04:15.597Z
+date: 2022-01-28T00:52:47.911Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:56:44.170Z
