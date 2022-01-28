@@ -10,7 +10,7 @@ dateCreated: 2022-01-25T07:45:55.195Z
 
 # spica
 * 売却済み
-![spica.png](/spica.png)
+![spica.png](/images/spica.png)
 
 ## スペック
 [パソコン工房 UNITCOM W650SJ](https://news.mynavi.jp/article/20140618-a465/)

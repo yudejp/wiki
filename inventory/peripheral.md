@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-01-28T01:17:13.886Z
 ---
 
-![15cf03508c47ca1d1057f627df11a423.png](/15cf03508c47ca1d1057f627df11a423.png)
+![15cf03508c47ca1d1057f627df11a423.png](/images/15cf03508c47ca1d1057f627df11a423.png)
 
 
 ### キーボード

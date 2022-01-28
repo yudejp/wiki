@@ -10,7 +10,7 @@ dateCreated: 2022-01-25T07:06:31.969Z
 
 # saika
 * 売却済み
-![saika.png](/saika.png)
+![saika.png](/images/saika.png)
 
 ## スペック
 * CPU: [Intel Core i5-6500](https://ark.intel.com/content/www/jp/ja/ark/products/88184/intel-core-i5-6500-processor-6m-cache-up-to-3-60-ghz.html) (4C, 4T)

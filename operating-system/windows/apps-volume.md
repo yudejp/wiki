@@ -9,4 +9,4 @@ dateCreated: 2022-01-28T04:12:44.653Z
 ---
 
 * 「ファイル名を指定して実行」から、`ms-settings:apps-volume` を呼び出す。
-![apps-volume.png](/apps-volume.png)
+![apps-volume.png](/images/apps-volume.png)

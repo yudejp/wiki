@@ -10,7 +10,7 @@ dateCreated: 2022-01-25T07:02:59.445Z
 
 # sandy
 * サーバー (メイン)
-![db5bbab80d6b27be95ec151cfae927d1-png.png](/db5bbab80d6b27be95ec151cfae927d1-png.png)
+![db5bbab80d6b27be95ec151cfae927d1-png.png](/images/db5bbab80d6b27be95ec151cfae927d1-png.png)
 ## スペック
 * CPU: [Intel Core i7-2600 @ 3.40GHz](https://ark.intel.com/content/www/jp/ja/ark/products/52213/intel-core-i7-2600-processor-8m-cache-up-to-3-80-ghz.html) (4C/8T)
 * RAM: DDR3 4GB * 2 + 8GB * 2 = 24GB

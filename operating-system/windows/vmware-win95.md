@@ -16,17 +16,17 @@ dateCreated: 2022-01-28T04:11:36.430Z
     * プロンプトされるのでそのタイミングで切断すれば良い。
 * 万一の時のために起動ディスクは作成しておくべきである。
     * VMware の `flp` ファイルで良い。
-    ![flp1.png](/flp1.png)
+    ![flp1.png](/images/flp1.png)
 #### 音が出ない
 * VMware Tools をインストールしても、サウンドドライバーはインストールされない。
 * 以下の方法では MIDI の音が出ないかもしれないが、起動音や音声ファイル等に関しては再生できる。
     * `ES1371` という型番のデバイスのドライバーをインストールすればよい。
         * 参考: [VMWare に入ったWindows 95用のサウンドドライバ - Windows 2000 Blog](http://blog.livedoor.jp/blackwingcat/archives/1434847.html)
     * ダウンロード先: [Creative Media (Japan) : Customer Support - Drivers & more for all your Creative products](https://jp.creative.com/support/downloads/download.asp?Product_ID=420&Product_Name=Creative+Ensoniq+Audio+PCI&OSName=Windows+98&OS=2&DriverType=0&details=1)
-        ![flp2.png](/flp2.png)
+        ![flp2.png](/images/flp2.png)
 #### インターネットに接続する
 * 画像のとおりにやればいいですよ
-* ![flp3.png](/flp1.png)
+* ![flp3.png](/images/flp3.png)
 ##### Internet Explorer 4.0 で接続できた Web サイトの一覧
 * [ようこそ AMAKATAs' WEBSITE へ](http://www.asahi-net.or.jp/~mi5k-amkt/)
 * [1998特報!!倶楽部](http://www.big.or.jp/~talk/t-club/)
