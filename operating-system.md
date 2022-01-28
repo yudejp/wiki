@@ -2,7 +2,7 @@
 title: オペレーティング システム
 description: OS 別メモ
 published: true
-date: 2022-01-28T04:16:58.387Z
+date: 2022-01-28T04:31:40.686Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-28T03:58:36.663Z
@@ -19,3 +19,6 @@ dateCreated: 2022-01-28T03:58:36.663Z
 * [「診断データ」のオプションがグレーアウトして選択できない](/operating-system/windows/fix-grayout-telemetry-option)
 * [RDP Wrapper Library と自動アップデータの導入・使用方法](/operating-system/windows/rdp-wrapper)
 * [Windows で 3.5 インチ 2DD フロッピーディスクをフォーマットする](/operating-system/windows/format-2dd-fd)
+
+## Linux
+* [Linux 環境で dGPU (NVIDIA Optimus) を使用してアプリケーションを起動する](/operating-system/linux/nvidia-optimus)
