@@ -2,7 +2,7 @@
 title: ようこそ
 description: wiki.yude.jp フロントページ
 published: true
-date: 2022-01-28T07:16:08.743Z
+date: 2022-01-28T07:20:02.434Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T03:46:14.578Z
@@ -19,11 +19,11 @@ dateCreated: 2022-01-25T03:46:14.578Z
 ## ナビゲーション
 ページを追加した際は、こちらから辿ることのできるようにします。
 ### トピック
+* [ゲーム](/games)
 * [コマンド](/commands)
 * [プログラミング](/programming)
 * [ソフトウェア](/software)
 * [オペレーティング システム](/operating-system)
-* [ゲーム](/games)
 ### 所持
 * [コンピュータ](/inventory/hosts)
 * [携帯端末](/inventory/mobile)
