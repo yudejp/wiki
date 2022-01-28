@@ -2,7 +2,7 @@
 title: silicon
 description: 
 published: true
-date: 2022-01-25T07:20:30.221Z
+date: 2022-01-28T00:56:46.534Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:12:40.737Z
