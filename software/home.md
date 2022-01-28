@@ -2,7 +2,7 @@
 title: ソフトウェア
 description: ソフトウェアの運用メモ
 published: true
-date: 2022-01-28T00:53:25.385Z
+date: 2022-01-28T04:02:28.601Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T05:07:48.358Z
