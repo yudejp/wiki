@@ -2,7 +2,7 @@
 title: zen
 description: 
 published: true
-date: 2022-01-28T00:56:57.527Z
+date: 2022-01-28T01:04:50.004Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:08:55.925Z
@@ -10,7 +10,7 @@ dateCreated: 2022-01-25T07:08:55.925Z
 
 # zen
 * メインマシン
-![zen](https://gyazo.com/6a9e6181c45d696535e0deb65e754ad8/max_size/300)
+![zen.jpeg](/zen.jpeg)
 
 ## スペック
 * CPU: [AMD Ryzen 5 3600](https://www.amd.com/ja/products/cpu/amd-ryzen-5-3600) (6C / 12T)
