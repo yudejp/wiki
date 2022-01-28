@@ -15,5 +15,6 @@ dateCreated: 2022-01-25T07:43:00.817Z
 * [pi](/inventory/hosts/pi)
 
 ## 売却済み, 廃棄済み, 譲渡済み
+* [choco](/inventory/hosts/choco)
 * [saika](/inventory/hosts/saika)
 * [spica](/inventory/hosts/spica)
