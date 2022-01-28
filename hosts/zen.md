@@ -2,7 +2,7 @@
 title: zen
 description: 
 published: true
-date: 2022-01-25T07:20:50.520Z
+date: 2022-01-28T00:56:57.527Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:08:55.925Z
