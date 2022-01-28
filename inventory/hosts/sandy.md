@@ -2,7 +2,7 @@
 title: sandy
 description: 
 published: true
-date: 2022-01-28T00:56:36.459Z
+date: 2022-01-28T01:03:46.429Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:02:59.445Z
@@ -10,7 +10,7 @@ dateCreated: 2022-01-25T07:02:59.445Z
 
 # sandy
 * サーバー (メイン)
-![sandy](https://gyazo.com/db5bbab80d6b27be95ec151cfae927d1/max_size/1000)
+![db5bbab80d6b27be95ec151cfae927d1-png.png](/db5bbab80d6b27be95ec151cfae927d1-png.png)
 ## スペック
 * CPU: [Intel Core i7-2600 @ 3.40GHz](https://ark.intel.com/content/www/jp/ja/ark/products/52213/intel-core-i7-2600-processor-8m-cache-up-to-3-80-ghz.html) (4C/8T)
 * RAM: DDR3 4GB * 2 + 8GB * 2 = 24GB
