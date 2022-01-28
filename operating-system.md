@@ -2,7 +2,7 @@
 title: オペレーティング システム
 description: OS 別メモ
 published: true
-date: 2022-01-28T06:57:54.115Z
+date: 2022-01-28T06:58:06.048Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-28T03:58:36.663Z
@@ -24,4 +24,4 @@ dateCreated: 2022-01-28T03:58:36.663Z
 * [Linux 環境で dGPU (NVIDIA Optimus) を使用してアプリケーションを起動する](/operating-system/linux/nvidia-optimus)
 
 ## Android
-* [FlokoROM](/Floko)
+* [FlokoROM](/operating-system/Android/Floko)
