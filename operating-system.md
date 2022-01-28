@@ -2,7 +2,7 @@
 title: オペレーティング システム
 description: OS 別メモ
 published: true
-date: 2022-01-28T06:58:06.048Z
+date: 2022-01-28T07:10:46.285Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-28T03:58:36.663Z
@@ -22,6 +22,9 @@ dateCreated: 2022-01-28T03:58:36.663Z
 
 ## Linux
 * [Linux 環境で dGPU (NVIDIA Optimus) を使用してアプリケーションを起動する](/operating-system/linux/nvidia-optimus)
+* [強制的にマウントを解除する](/operating-system/linux/force-unmount)
+* [apt が使用するプロトコルに IPv4 または IPv6 を強制する](/operating-system/linux/apt-force-protocol)
+* [ルート以下の権限を破壊してしまったとき](/operating-system/linux/fix-whole-permission)
 
 ## Android
 * [FlokoROM](/operating-system/Android/Floko)
