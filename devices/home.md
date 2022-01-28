@@ -2,7 +2,7 @@
 title: デバイス
 description: 
 published: true
-date: 2022-01-25T08:05:44.946Z
+date: 2022-01-28T01:01:14.298Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T08:05:44.946Z
