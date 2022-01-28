@@ -2,7 +2,7 @@
 title: ようこそ
 description: wiki.yude.jp フロントページ
 published: true
-date: 2022-01-28T06:57:37.224Z
+date: 2022-01-28T07:12:39.975Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T03:46:14.578Z
@@ -10,6 +10,7 @@ dateCreated: 2022-01-25T03:46:14.578Z
 
 ここは、[yude.jp](https://yude.jp) の Wiki ページです。
 アカウント登録は招待制となっています。[yude](https://yude.jp/profile) までお問い合わせください。
+基本的に、この Wiki の内容をあなたの環境で試行する場合、すべて自己責任となります。
 
 ## 命名規則
 * 極端に短いパスを指定するとエラーが発生します。(5文字程度は欲しい。)
