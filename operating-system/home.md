@@ -2,7 +2,7 @@
 title: オペレーティング システム
 description: OS 別メモ
 published: true
-date: 2022-01-28T04:00:13.627Z
+date: 2022-01-28T04:01:45.517Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-28T03:58:36.663Z
