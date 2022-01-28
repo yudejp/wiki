@@ -2,7 +2,7 @@
 title: ようこそ
 description: wiki.yude.jp フロントページ
 published: true
-date: 2022-01-28T01:09:33.095Z
+date: 2022-01-28T01:10:46.812Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T03:46:14.578Z
@@ -26,6 +26,7 @@ dateCreated: 2022-01-25T03:46:14.578Z
 ### 所持
 * [コンピュータ](/inventory/hosts/home)
 * [携帯端末](/inventory/mobile)
+* [周辺機器](/inventory/peripheral)
 * [ノベルゲーム](/inventory/visual-novel)
 
 ## 外部リンク
