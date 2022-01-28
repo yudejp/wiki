@@ -2,7 +2,7 @@
 title: spica
 description: 
 published: true
-date: 2022-01-28T00:57:23.760Z
+date: 2022-01-28T01:05:40.613Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:45:55.195Z
@@ -10,7 +10,7 @@ dateCreated: 2022-01-25T07:45:55.195Z
 
 # spica
 * 売却済み
-![spica](https://gyazo.com/1cd1d0cb2f65a1468f15edd33a2db1ea/max_size/300)
+![spica.png](/spica.png)
 
 ## スペック
 [パソコン工房 UNITCOM W650SJ](https://news.mynavi.jp/article/20140618-a465/)
