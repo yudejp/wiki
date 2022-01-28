@@ -1,14 +1,12 @@
 ---
 title: コンピュータ
-description: 
+description: yude が所持している、または所持していたコンピュータについて
 published: true
-date: 2022-01-25T07:57:04.307Z
+date: 2022-01-28T00:52:27.436Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:43:00.817Z
 ---
-
-* yude が所持している、または所持していたコンピュータについて
 
 ## 所持中
 * [sandy](/hosts/sandy)
