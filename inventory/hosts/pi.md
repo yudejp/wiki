@@ -2,14 +2,14 @@
 title: pi
 description: 
 published: true
-date: 2022-01-28T00:57:06.339Z
+date: 2022-01-28T01:05:01.987Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:23:22.013Z
 ---
 
 # pi
-![pi](https://gyazo.com/a47f6d8d27e33eaaf637115109d92e72/max_size/300)
+![pi.jpeg](/pi.jpeg)
 
 ## スペック
 [Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/)
