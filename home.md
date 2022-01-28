@@ -19,7 +19,7 @@ dateCreated: 2022-01-25T03:46:14.578Z
 ページを追加した際は、こちらから辿ることのできるようにします。
 ### トピック
 * [FlokoROM](/Floko)
-* [コマンド](/command)
+* [コマンド](/commands)
 * [プログラミング](/programming)
 * [ソフトウェア](/software)
 * [オペレーティング システム](/operating-system)

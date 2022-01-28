@@ -10,9 +10,9 @@ dateCreated: 2022-01-27T04:59:45.235Z
 
 ## 言語
 ### Go
-* [実行ファイルのサイズを削減する](/golang/ldflags-s)
+* [実行ファイルのサイズを削減する](/programming/golang/ldflags-s)
 ### JavaScript
-* [現在開いているページを Twitter にシェアするブックマークレット](/javascript/twitter-share-bookmarklet)
+* [現在開いているページを Twitter にシェアするブックマークレット](/programming/javascript/twitter-share-bookmarklet)
 
 ## フレームワーク
 ### Ren'Py

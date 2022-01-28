@@ -11,18 +11,18 @@ dateCreated: 2022-01-25T07:56:44.170Z
 ## バージョン管理
 ### `git`
 * [別リポジトリにあるディレクトリを他のリポジトリで既に使用中のドメインのサブディレクトリとして GitHub Pages で公開する](/git/github-pages-subdir)
-* [コミットに署名を行う (on Windows)](/git/signing-commit-on-windows)
+* [コミットに署名を行う (on Windows)](/commands/git/signing-commit-on-windows)
 
 ## ファイアウォール
 ### `iptables`
-* [チートシート](/iptables/cheat)
-* [No chain/target/match by that name.](/iptables/no-chain)
+* [チートシート](/commands/iptables/cheat)
+* [No chain/target/match by that name.](/commands/iptables/no-chain)
 ### `ufw`
-* [ufw で作成したルールを削除する](/ufw/delete-rules)
+* [ufw で作成したルールを削除する](/commands/ufw/delete-rules)
 
 ## ターミナル
 ### `screen`
-* [チートシート](/screen/cheat)
+* [チートシート](/commands/screen/cheat)
 
 ## その他
 ### トラブルシューティング
