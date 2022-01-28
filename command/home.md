@@ -2,7 +2,7 @@
 title: コマンド
 description: コマンドラインツール等の運用メモ
 published: true
-date: 2022-01-28T00:52:47.911Z
+date: 2022-01-28T04:02:21.976Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:56:44.170Z
