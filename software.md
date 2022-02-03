@@ -2,7 +2,7 @@
 title: ソフトウェア
 description: ソフトウェアの運用メモ
 published: true
-date: 2022-01-28T07:15:23.976Z
+date: 2022-02-03T20:30:35.454Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T05:07:48.358Z
@@ -27,3 +27,7 @@ dateCreated: 2022-01-27T05:07:48.358Z
 ## 組版
 ### LaTeX
 * [複数の PDF ファイルを結合する](/software/latex/combine-pdfs)
+
+## ActivityPub
+### Mastodon
+* [Docker Compose で構築した Mastodon をアップグレードする](/software/mastodon/upgrade-mastodon-docker-compose)
