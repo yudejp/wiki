@@ -2,7 +2,7 @@
 title: 最新の macOS で Mac OS X Lion のインストール USB メディアを作成する
 description: 
 published: true
-date: 2022-02-04T01:21:31.572Z
+date: 2022-02-04T01:25:09.447Z
 tags: macos
 editor: markdown
 dateCreated: 2022-02-04T01:21:31.572Z
@@ -30,3 +30,13 @@ disk image（Apple_HFS: 5）を読み込み中…
 節約率: 0.0%
 created: /Users/yude/Lion.img.dmg
 ```
+4. 書き込み先のパーティションを調べる。
+* ディスクユーティリティを開き、書き込み先のストレージのパーティションを確認する。
+![スクリーンショット_2022-02-04_10.21.49.png](/images/スクリーンショット_2022-02-04_10.21.49.png)
+* 画像の矢印部の文字列を確認する。
+
+5. イメージを書き込む。
+```
+sudo dd if=Lion.dmg of=/dev/disk4 bs=1m
+```
+* `disk4` の部分は、ステップ 4 で確認した文字列とする。
