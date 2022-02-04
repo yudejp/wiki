@@ -2,7 +2,7 @@
 title: オペレーティング システム
 description: OS 別メモ
 published: true
-date: 2022-02-04T01:18:24.357Z
+date: 2022-02-04T02:08:04.198Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-28T03:58:36.663Z
@@ -30,4 +30,4 @@ dateCreated: 2022-01-28T03:58:36.663Z
 * [最新の macOS で Mac OS X Lion のインストール USB メディアを作成する](/operating-system/macos/create-lion-usb)
 
 ## Android
-* [FlokoROM](/operating-system/Android/Floko)
+* [FlokoROM](/operating-system/android/floko)
