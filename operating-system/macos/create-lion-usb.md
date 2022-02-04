@@ -2,7 +2,7 @@
 title: 最新の macOS で Mac OS X Lion のインストール USB メディアを作成する
 description: 
 published: true
-date: 2022-02-04T01:25:09.447Z
+date: 2022-02-04T01:27:38.293Z
 tags: macos
 editor: markdown
 dateCreated: 2022-02-04T01:21:31.572Z
@@ -37,6 +37,8 @@ created: /Users/yude/Lion.img.dmg
 
 5. イメージを書き込む。
 ```
-sudo dd if=Lion.dmg of=/dev/disk4 bs=1m
+sudo dd if=$HOME/Lion.dmg of=/dev/disk4 bs=1m
 ```
 * `disk4` の部分は、ステップ 4 で確認した文字列とする。
+* `Operation not permitted` と表示された時は、ディスクユーティリティから USB フラッシュメモリのパーティションのみをアンマウントする。
+* `Operation not permitted` は USB フラッシュメモリが接続されていない場合でも表示される。
