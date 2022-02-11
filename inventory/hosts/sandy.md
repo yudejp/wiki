@@ -2,7 +2,7 @@
 title: sandy
 description: 
 published: true
-date: 2022-01-28T01:03:46.429Z
+date: 2022-02-11T09:47:40.012Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:02:59.445Z
@@ -23,7 +23,7 @@ dateCreated: 2022-01-25T07:02:59.445Z
 * ストレージ (データ): [Western Digital WD5000AAKX-00ERMA0 500GB](https://www.tekwind.co.jp/WDC/products/entry_9230.php)
 
 ## 歴史
-* 2014年7月: 基礎となる構成 i7-2600, 8GB RAM, GTX 650 で組む。当初はサーバー用途ではなく、4代目のメイン PC [富士通 FMV-BIBLO LOOX M/E 10](https://www.fmworld.net/fmv/pcpm0910/looxm/index.html) のリプレース先であったが、当時は知識不足により最後まで組むことができず約4ヶ月放置。そのときの続投先は一旦 [パソコン工房 iiyama 15H7100-i7-VG](https://news.mynavi.jp/article/20140404-a270/) ([/hosts/saika]) を購入することとなる。放置後構築に再チャレンジし、今度は正常に起動まで持っていくことができた。しかし、そのときは既に十分な性能の PC を手に入れていたため、弟の PC 兼 Minecraft サーバー用として使用されることとなる。当初は Windows 7 Professional がインストールされていた。
+* 2014年7月: 基礎となる構成 i7-2600, 8GB RAM, GTX 650 で組む。当初はサーバー用途ではなく、4代目のメイン PC [富士通 FMV-BIBLO LOOX M/E 10](https://www.fmworld.net/fmv/pcpm0910/looxm/index.html) のリプレース先であったが、当時は知識不足により最後まで組むことができず約4ヶ月放置。そのときの続投先は一旦 [パソコン工房 iiyama 15H7100-i7-VG](https://news.mynavi.jp/article/20140404-a270/) ([saika](/inventory/hosts/saika)) を購入することとなる。放置後構築に再チャレンジし、今度は正常に起動まで持っていくことができた。しかし、そのときは既に十分な性能の PC を手に入れていたため、弟の PC 兼 Minecraft サーバー用として使用されることとなる。当初は Windows 7 Professional がインストールされていた。
 * 2015年末: Windows 10 Pro にアップデート。Hyper-V 上に Ubuntu Server をインストールし、その上でサーバーを運用することを決定。
 * 2016年末: RAM を 16GB に増設。[PLEX PX-W3U4](http://www.plex-net.co.jp/product/px-w3u4/) 等を導入し、録画サーバーとしての運用も開始。電源の故障により一定期間起動し続けるとシャットダウンしてしまう不具合が発生。電源を [玄人志向 電源 KRPW-BKシリーズ 80PLUS Bronze 650W ATX電源 KRPW-BK650W/85+](https://www.amazon.co.jp/gp/product/B078HDTV8P/) にリプレースし解決。他のパーツを巻き込まず済んだのは非常に幸運だった。
 * 2018年: システムをインストールしているストレージを SSD に変更。
