@@ -2,13 +2,14 @@
 title: pi
 description: 
 published: true
-date: 2022-01-28T01:05:01.987Z
+date: 2022-02-11T09:48:07.077Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T07:23:22.013Z
 ---
 
 # pi
+* サーバー (サブ)
 ![pi.jpeg](/pi.jpeg)
 
 ## スペック
@@ -21,3 +22,4 @@ dateCreated: 2022-01-25T07:23:22.013Z
 ## 歴史
 * 2020年7月: 実家に設置するリバースプロキシサーバーとして購入。
 * 2021年10月: Oracle Cloud が役割を果たしてくれることから実家から撤収。
+* 2022年2月: サーバー (サブ) として運用再開。
